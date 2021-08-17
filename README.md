@@ -2,7 +2,7 @@
 
 **Веб-приложение, написанное с использованием Spring MVC Framework, HTML5, CSS3.**
 
-## **Технологии: **
+## **Технологии:**
 1) Spring MVC, Spring Boot, Spring Security, JPA+Spring Data JPA, AOP (Aspects for Logging)
 2) JavaScript+jQuery, AJAX, HTML5, CSS3, Bootstap 4.0
 3) REST API
@@ -12,7 +12,7 @@
 ## **Структура семестровой работы:**
 
 1. **Архитектуры (слои абстракции)**
-- Проект основан на Spring Boot и построен по модели MVC, логика архитектуры: *Controller->Service->Repository*.
+- Проект основан на Spring Boot и построен по модели MVC, логика *Controller->Service->Repository*.
 - Используются DTO-, Forms-классы, где это уменьшает связность, абстрагирует архитектуру.
 - Соблюдены принципы SOLID. Весь код корректно поделен на пакеты.
 
